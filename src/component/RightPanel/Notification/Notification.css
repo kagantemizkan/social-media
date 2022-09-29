@@ -1,0 +1,13 @@
+#notifications {
+    text-align: left;
+    justify-content: space-between;
+    font-size: 16px;
+    font-style: semi-bold;
+}
+
+#see-all {
+    text-align-last: right;
+    font-size: 16px;
+    font-style: semi-bold;
+    color: #0851FF;
+}

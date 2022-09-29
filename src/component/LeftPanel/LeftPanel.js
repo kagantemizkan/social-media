@@ -6,7 +6,7 @@ import './LeftPanel.css'
 
 const LeftPanel = () => {
   return (
-    <div className='container-fluid col-md-3'>
+    <div className='container-fluid col-md-3 left-panel'>
     <div id='left-panel' className="container">
     <img src={Logo} alt="Logo" style={{marginTop: 30, marginLeft:10}}/> 
     <Profile />
