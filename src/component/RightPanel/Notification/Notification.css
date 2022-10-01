@@ -2,12 +2,12 @@
     text-align: left;
     justify-content: space-between;
     font-size: 16px;
-    font-style: semi-bold;
+    font-weight: 600;
 }
 
 #see-all {
     text-align-last: right;
     font-size: 16px;
-    font-style: semi-bold;
+    font-weight: 600;
     color: #0851FF;
 }

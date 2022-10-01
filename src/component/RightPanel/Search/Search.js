@@ -1,5 +1,4 @@
 import React from 'react'
-import SearchIcon from '../../../img/search.svg';
 import './Search.css'
 
 const Profile = () => {
